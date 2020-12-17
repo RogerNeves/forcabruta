@@ -1,0 +1,14 @@
+{
+  "name": "forcabruta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forcaBruta.js",
+  "scripts": {
+    "start": "node forcaBruta.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
